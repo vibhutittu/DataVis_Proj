@@ -41,13 +41,15 @@ Basic Functionalities are shown below along with Screenshots.
 ![clear_all](https://cloud.githubusercontent.com/assets/19288804/19245320/05bd4a86-8ee6-11e6-86b3-63cac03cfa15.jpg)
 
 
-# Video showing functionalities is as follows
+## Video showing functionalities is as follows
+
+
 https://github.com/vibhutittu/DataVis_Proj/blob/master/project1_video_vibhuti.webm
 
-#Link for my web application is 
+## Link for my web application is 
 https://vibhutittu.github.io/DataVis_Proj/Final_test.html
 
-#My github link
+## My github link
 https://github.com/vibhutittu/DataVis_Proj
 
 
