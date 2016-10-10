@@ -19,22 +19,26 @@ The unemployment rates of each state can be compared on the multiseries . The mu
 Basic Functionalities are shown below along with Screenshots.
 
 ### State names on placing mouse on map
-
+![map_hover](https://cloud.githubusercontent.com/assets/19288804/19245186/609dfce4-8ee5-11e6-9434-1f9658dc0205.jpg)
 
 ### Unemployment Rate for single state(Selected on Map) on Time series and coloring of Map after selection
+![unemp_rate_one_state](https://cloud.githubusercontent.com/assets/19288804/19245197/6ef99fa0-8ee5-11e6-8124-06f075643402.JPG)
+
 
 ### Selecting Multiple sates on Map and generating Multiseries graph
+![multiple_states_comparison_allyrs](https://cloud.githubusercontent.com/assets/19288804/19245255/b730073c-8ee5-11e6-8066-54d5a5626f2f.jpg)
 
 ### Slider for selecting a subset of years 
+![slider](https://cloud.githubusercontent.com/assets/19288804/19245300/e613082e-8ee5-11e6-84a0-58334290de67.jpg)
 
 ### Interactivity of Graph on Hover 
+![hover_on_chart](https://cloud.githubusercontent.com/assets/19288804/19245308/f03c4036-8ee5-11e6-83d4-f9fd6b3d5905.jpg)
 
 ### Generating Multiseries on clicking all states button 
-
+![all_states](https://cloud.githubusercontent.com/assets/19288804/19245314/fae6402c-8ee5-11e6-946e-470c5b14c266.jpg)
 
 ### Clear everything on clicking clear all button
-
-
+![clear_all](https://cloud.githubusercontent.com/assets/19288804/19245320/05bd4a86-8ee6-11e6-86b3-63cac03cfa15.jpg)
 
 
 # Video showing functionalities is as follows
