@@ -10,6 +10,7 @@ I have used R for data collection from Bureau of labor statistics site using bls
 # Web Application
  
 I have developed an interactive web based application using d3 and html,css.
+There is a separate folder for css, html, javascript and data
 
 My application includes a responsive map of all US states which provides the information of each state on the map. On clicking each state on the map , it generates a multiseries line graph having date on x-axis and unemployement rate on y-axis. 
 
