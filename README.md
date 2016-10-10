@@ -41,7 +41,7 @@ Basic Functionalities are shown below along with Screenshots.
 ![clear_all](https://cloud.githubusercontent.com/assets/19288804/19245320/05bd4a86-8ee6-11e6-86b3-63cac03cfa15.jpg)
 
 
-## Video showing functionalities is as follows
+## Video showing functionalities is as follows(Click below to view the video in you tube)
 
 [![video](https://cloud.githubusercontent.com/assets/19288804/19246691/37394c84-8eed-11e6-8ad6-2ff0f208e299.jpg)](https://youtu.be/M4ZldLZSbGQ)
 
