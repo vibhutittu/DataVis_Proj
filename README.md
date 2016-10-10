@@ -42,8 +42,6 @@ Basic Functionalities are shown below along with Screenshots.
 
 
 ## Video showing functionalities is as follows
-
-
 https://github.com/vibhutittu/DataVis_Proj/blob/master/project1_video_vibhuti.webm
 
 ## Link for my web application is 
