@@ -14,7 +14,7 @@ There is a separate folder for css, html, javascript and data
 
 My application includes a responsive map of all US states which provides the information of each state on the map. On clicking each state on the map , it generates a multiseries line graph having date on x-axis and unemployement rate on y-axis. 
 
-The unemployment rates of each state can be compared on the multiseries . The multiseries line graph provides a comparison of unemployment rates in each state form year 1976-2016.
+The unemployment rates of each state can be compared on the multiseries . The multiseries line graph provides a comparison of unemployment rates in each state form year 1978-2016.
 
 Basic Functionalities are shown below along with Screenshots.
 
