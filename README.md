@@ -17,6 +17,8 @@ My application includes a responsive map of all US states which provides the inf
 The unemployment rates of each state can be compared on the multiseries . The multiseries line graph provides a comparison of unemployment rates in each state form year 1976-2016.
 
 # Video showing functionalities is as follows
+
+
 # github link for my web application is 
 https://vibhutittu.github.io/DataVis_Proj/Final_test.html
 
