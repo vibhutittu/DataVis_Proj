@@ -19,10 +19,10 @@ The unemployment rates of each state can be compared on the multiseries . The mu
 # Video showing functionalities is as follows
 https://github.com/vibhutittu/DataVis_Proj/blob/master/project1_video_vibhuti.webm
 
-#link for my web application is 
+#Link for my web application is 
 https://vibhutittu.github.io/DataVis_Proj/Final_test.html
 
-#my github link
+#My github link
 https://github.com/vibhutittu/DataVis_Proj
 
 
