@@ -18,8 +18,21 @@ The unemployment rates of each state can be compared on the multiseries . The mu
 
 Basic Functionalities are shown below along with Screenshots.
 
-### Unemployment rate for one state by selecting it on map
-![unemp_rate_one_state](https://cloud.githubusercontent.com/assets/19288804/19244408/d354730c-8ee1-11e6-999a-c87036ab3720.JPG)
+### State names on placing mouse on map
+
+
+### Unemployment Rate for single state(Selected on Map) on Time series and coloring of Map after selection
+
+### Selecting Multiple sates on Map and generating Multiseries graph
+
+### Slider for selecting a subset of years 
+
+### Interactivity of Graph on Hover 
+
+### Generating Multiseries on clicking all states button 
+
+
+### Clear everything on clicking clear all button
 
 
 
